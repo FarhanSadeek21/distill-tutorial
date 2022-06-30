@@ -1,10 +1,29 @@
 ---
-title: "About this site"
+title: "**About this site**"
 description: |
-  I am Farhan
+  *I am Farhan.*
 ---
+
+## About me
+My name is Farhan Sadeek. I am a sophomore in Dublin Coffman High School in Columbus, Ohio. I love Data Science and am interested to dive deep into this field.
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+
+## About this project
+My project includes the correlation between different countries and economics.
+
+
+## Goals
+
+* Visualize distribution of donations from countries over time
+* Examine change of US government representation along with donation amount over time
+  + x axis are different scales, so must convert to percentage before facet-wrapping
+* Determine connection between foreign-connected PAC donations of different parties and US government representation of the parties
+
+"This is Data Science"  
+~ Preceptor
+
+[Kane’s Free High School Data Science Bootcamp](https://bootcamp.davidkane.info/)

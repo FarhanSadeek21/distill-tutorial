@@ -9,6 +9,7 @@ site: distill::distill_website
 knitr::opts_chunk$set(echo = FALSE)
 library(tidyverse)
 library(knitr)
+library(ggthemes)
 # Learn more about creating websites with Distill at:
 # https://rstudio.github.io/distill/website.html
 
