@@ -6,15 +6,15 @@
       "description": "*I am Farhan.*",
       "author": [],
       "contents": "\r\nAbout me\r\nMy name is Farhan Sadeek. I am a sophomore in Dublin Coffman High\r\nSchool in Columbus, Ohio. I love Data Science and am interested to dive\r\ndeep into this field.\r\nAbout this project\r\nMy project includes the correlation between different countries and\r\neconomics.\r\nGoals\r\nVisualize distribution of donations from countries over time\r\nExamine change of US government representation along with donation\r\namount over time\r\nx axis are different scales, so must convert to percentage before\r\nfacet-wrapping\r\n\r\nDetermine connection between foreign-connected PAC donations of\r\ndifferent parties and US government representation of the parties\r\n“This is Data Science”\r\n\r\nPreceptor\r\n\r\nKane’s Free High School\r\nData Science Bootcamp\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-30T15:25:22-04:00"
+      "last_modified": "2022-06-30T15:44:50-04:00"
     },
     {
       "path": "county.html",
       "title": "county.Rmd",
       "author": [],
       "date": "2022-06-27",
-      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTitle of My Final Project\r\n\r\n\r\nHome\r\nAbout\r\nSources\r\n☰\r\n\r\n\r\n  \r\n    \r\n      \r\n        \r\n        \r\n        \r\n      \r\n      \r\n    \r\n    \r\n      \r\n  Home\r\n\r\n\r\n  About\r\n\r\n\r\n  Sources\r\n\r\n      \r\n  \r\n\r\n\r\n\r\n\r\n\r\n\r\ncounty.Rmd\r\n2022-06-27\r\n\r\n\r\n\r\n\r\n\r\nR Markdown\r\nThis is an R Markdown document. Markdown is a simple formatting\r\nsyntax for authoring HTML, PDF, and MS Word documents. For more details\r\non using R Markdown see http://rmarkdown.rstudio.com.\r\nWhen you click the Knit button a document will be\r\ngenerated that includes both content as well as the output of any\r\nembedded R code chunks within the document. You can embed an R code\r\nchunk like this:\r\n\r\n\r\nIncluding Plots\r\nYou can also embed plots, for example:\r\n\r\nNote that the echo = FALSE parameter was added to the\r\ncode chunk to prevent printing of the R code that generated the\r\nplot.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-30T15:25:22-04:00"
+      "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTitle of My Final Project\r\n\r\n\r\nHome\r\nAbout\r\n\r\n\r\nSources\r\n \r\n▾\r\n\r\n\r\nSource A\r\nSource B\r\n\r\n\r\n☰\r\n\r\n\r\n  \r\n    \r\n      \r\n        \r\n        \r\n        \r\n      \r\n      \r\n    \r\n    \r\n      \r\n  Home\r\n\r\n\r\n  About\r\n\r\n\r\n  \r\n    Sources\r\n     \r\n    \r\n  \r\n  \r\n      Source A\r\n    \r\n    \r\n      Source B\r\n    \r\n  \r\n      \r\n  \r\n\r\n\r\n\r\n\r\n\r\n\r\ncounty.Rmd\r\n2022-06-27\r\n\r\n\r\n\r\n\r\n\r\nR Markdown\r\nThis is an R Markdown document. Markdown is a simple formatting\r\nsyntax for authoring HTML, PDF, and MS Word documents. For more details\r\non using R Markdown see http://rmarkdown.rstudio.com.\r\nWhen you click the Knit button a document will be\r\ngenerated that includes both content as well as the output of any\r\nembedded R code chunks within the document. You can embed an R code\r\nchunk like this:\r\n\r\n\r\nIncluding Plots\r\nYou can also embed plots, for example:\r\n\r\nNote that the echo = FALSE parameter was added to the\r\ncode chunk to prevent printing of the R code that generated the\r\nplot.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-06-30T15:44:50-04:00"
     },
     {
       "path": "index.html",
@@ -22,7 +22,7 @@
       "description": "This is where I will describe my final project.\n",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-30T15:25:25-04:00"
+      "last_modified": "2022-06-30T15:44:53-04:00"
     },
     {
       "path": "sources.html",
@@ -36,7 +36,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\n“This is where I will describe what sources I used and why I chose\r\nthem. I may also discuss any broad challenges I faced while finding\r\nsources.”\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-30T15:29:27-04:00"
+      "last_modified": "2022-06-30T15:44:54-04:00"
     },
     {
       "path": "sources_A.html",
@@ -50,7 +50,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\n“This is where I will describe what sources I used and why I chose\r\nthem. I may also discuss any broad challenges I faced while finding\r\nsources.”\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-30T15:31:32-04:00"
+      "last_modified": "2022-06-30T15:44:55-04:00"
     },
     {
       "path": "sources_B.html",
@@ -64,7 +64,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\n“This is where I will describe what sources I used and why I chose\r\nthem. I may also discuss any broad challenges I faced while finding\r\nsources.”\r\nDistill is a publication format for scientific and technical writing,\r\nnative to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-30T15:31:38-04:00"
+      "last_modified": "2022-06-30T15:44:55-04:00"
     }
   ],
   "collections": []
