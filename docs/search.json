@@ -3,7 +3,7 @@
     {
       "path": "about.html",
       "title": "About this site",
-      "description": "Some additional details about the website",
+      "description": "I am Farhan",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
       "last_modified": "2022-06-30T14:29:08-04:00"
@@ -14,7 +14,7 @@
       "author": [],
       "date": "2022-06-27",
       "contents": "\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\nTitle of My Final Project\r\n\r\n\r\nHome\r\nAbout\r\n☰\r\n\r\n\r\n  \r\n    \r\n      \r\n        \r\n        \r\n        \r\n      \r\n      \r\n    \r\n    \r\n      \r\n  Home\r\n\r\n\r\n  About\r\n\r\n      \r\n  \r\n\r\n\r\n\r\n\r\n\r\n\r\ncounty.Rmd\r\n2022-06-27\r\n\r\n\r\n\r\n\r\n\r\nR Markdown\r\nThis is an R Markdown document. Markdown is a simple formatting\r\nsyntax for authoring HTML, PDF, and MS Word documents. For more details\r\non using R Markdown see http://rmarkdown.rstudio.com.\r\nWhen you click the Knit button a document will be\r\ngenerated that includes both content as well as the output of any\r\nembedded R code chunks within the document. You can embed an R code\r\nchunk like this:\r\nsummary(cars)\r\n##      speed           dist       \r\n##  Min.   : 4.0   Min.   :  2.00  \r\n##  1st Qu.:12.0   1st Qu.: 26.00  \r\n##  Median :15.0   Median : 36.00  \r\n##  Mean   :15.4   Mean   : 42.98  \r\n##  3rd Qu.:19.0   3rd Qu.: 56.00  \r\n##  Max.   :25.0   Max.   :120.00\r\n\r\n\r\nIncluding Plots\r\nYou can also embed plots, for example:\r\n\r\nNote that the echo = FALSE parameter was added to the\r\ncode chunk to prevent printing of the R code that generated the\r\nplot.\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n\r\n",
-      "last_modified": "2022-06-30T14:29:09-04:00"
+      "last_modified": "2022-06-30T14:54:48-04:00"
     },
     {
       "path": "index.html",
