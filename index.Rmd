@@ -19,18 +19,16 @@ library(ggthemes)
 ```
 
 ```{r car-plot}
-mtcars |>
-    select(mpg, wt) |>
-    ggplot(aes(wt, mpg)) +
-    geom_point()+
-    geom_smooth(method=lm, se=F) +
-    theme_clean()+
-    labs(title="Fuel Efficiency and Weight",
-        subtitle="Heavier cars are less fuel efficienct",
-        y="MPG",
-        x="Weight(1000s of lbs)",
-        caption = "Henderson and Vellerman (2019)"
-    )
+car_plot <- read_rds('car_plot.rds')
+ggsave('car-plot.png', plot = car_plot)
+
+```
+## Images
+
+```{r}
+
+include_graphics(path = "images/car-plot.png")
+
 
 ```
 
