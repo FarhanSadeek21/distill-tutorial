@@ -18,6 +18,7 @@
 /*.Rcheck/
 
 *.Rproj
+*.Rproj
 # RStudio files
 .Rproj.user/
 
